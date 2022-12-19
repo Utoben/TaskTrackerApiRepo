@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TaskTrackerApiV1.props" />
+</Project>
